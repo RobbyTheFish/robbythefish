@@ -101,6 +101,7 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 I'm always open to discussing interesting challenges, **open-source collaboration**, or just chatting about stream processing and distributed systems.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prendsgarde)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prendsgarde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://robbythefish.github.io)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:oz.yaroslav@outlook.com)
