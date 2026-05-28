@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Yaroslav! 👋
+# Hi, I'm Yaroslav!👋
 
 **Data Engineer · Analytics Engineer · Backend Developer**
 
-*Building reliable data pipelines, scalable lakehouses, and intelligent systems*
+*Pipelines, Lakehouses, and Intelligent Systems*
 
+[
 [
 [
 [
@@ -14,17 +15,14 @@
 
 ***
 
-
 ## 🧑‍💻 About Me
 
-I'm a **Data Engineer with 3+ years of experience** and **1 year in Analytics Engineering**, focused on building production-grade data infrastructure — from raw ingestion all the way to curated analytical layers.
+I build production-grade data infrastructure — Lakehouse architectures, ETL/ELT pipelines, and DWH systems. Beyond data, I develop backend microservices, set up observability stacks, and work with agentic AI systems.
 
-I design and operate **Lakehouse architectures**, orchestrate complex **ETL/ELT pipelines**, and make data trustworthy at scale. Beyond pipelines, I build **backend microservices**, wire up observability stacks, and increasingly work at the intersection of **data engineering and AI agent systems**.
-
-- 🏗️ Specialized in **DWH design**, **Data Lakehouse**, and **streaming pipelines**
-- ⚙️ Comfortable with the full stack — from raw Kafka topics to polished BI dashboards
-- 🤖 Exploring **agentic AI**, MCP development, and LLM-integrated data workflows
-- 🌍 Open to remote and relocation opportunities
+- 🏗️ **Data** — Lakehouse, DWH, streaming, analytics engineering
+- ⚙️ **Backend** — async APIs, task queues, monitoring
+- 🤖 **AI** — agentic workflows, MCP development, AI Security
+- 🌍 Open to remote & relocation
 
 ***
 
@@ -37,91 +35,73 @@ I design and operate **Lakehouse architectures**, orchestrate complex **ETL/ELT 
 
 
 
-**Apache Spark -  Apache Kafka -  Airflow -  Dagster -  dbt Core**
+**Spark -  Kafka -  Airflow -  Dagster -  dbt Core**
 
 ### Storage & Databases
 
 
 
 
-**ClickHouse -  PostgreSQL -  S3 / Object Storage -  Lakehouse -  DWH**
+**ClickHouse -  PostgreSQL -  S3 -  Lakehouse -  DWH**
 
-### Cloud Platforms
-
-
-
-**Google Cloud Platform -  Yandex Cloud**
-
-### Backend & APIs
+### Cloud & Backend
 
 
 
 
 
 
-**Python -  FastAPI -  Flask -  Celery -  RabbitMQ**
+
+
+**GCP -  Yandex Cloud -  Python -  FastAPI -  Flask -  Celery -  RabbitMQ**
 
 ### Observability & BI
 
 
 
 
-**Grafana -  Loki -  Apache Superset -  ELK Stack**
+**Grafana -  Loki -  Superset -  ELK**
 
 ### AI & Agentic Systems
 
 
 
-**Agentic AI -  MCP Development -  Harness -  AI Security**
+**Agentic AI -  MCP -  Harness -  AI Security**
 
 ***
 
 ## 🎡 Ecosystem
 
-### Containerization
-
-
-
-
-**Docker -  Kubernetes -  GitHub Codespaces**
-
-### Version Control
-
-
-
-
-**Git -  GitHub -  GitLab**
-
-### CI/CD
-
-
-
-
-**GitHub Actions -  Travis CI -  GitLab CI/CD**
-
-### Project Management
+### Containerization & CI/CD
 
 
 
 
 
-**Jira -  GitHub Projects -  Trello -  Confluence**
 
+**Docker -  Kubernetes -  GitHub Actions -  GitLab CI/CD -  Travis CI**
+
+### Version Control & Project Management
+
+
+
+
+
+
+**Git -  GitHub -  GitLab -  Jira -  Confluence -  Trello**
 
 ***
 
-## 📌 What I Build
+## 📊 GitHub Stats
 
-- **Lakehouse pipelines** — Bronze → Silver → Gold layers on S3-compatible storage
-- **Streaming ingestion** — real-time Kafka consumers with schema evolution support
-- **DWH modeling** — dimensional modeling, slowly changing dimensions, dbt transformations
-- **Analytics engineering** — semantic layers, metrics definitions, self-serve dashboards
-- **Backend services** — async REST APIs and task queues for data-heavy workloads
-- **Observability** — pipeline monitoring with Grafana + Loki; log aggregation via ELK
-- **AI agents** — MCP servers, tool-use pipelines, AI Security patterns with Harness
+<div align="center">
+
+
+
+
+</div>
 
 ***
-
 
 ## 📫 Let's Connect
 
