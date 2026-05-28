@@ -128,5 +128,5 @@ I design and operate **Lakehouse architectures**, orchestrate complex **ETL/ELT 
 I'm always open to discussing interesting challenges, **open-source collaboration**, or just chatting about stream processing and distributed systems.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prendsgarde)
-[![Website](https://img.shields.io/badge/Website-222222?style=for--the--badge&logo=github&logoColor=white)](https://yourusername.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://robbythefish.github.io)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:oz.yaroslav@outlook.com)
