@@ -1,21 +1,16 @@
 <div align="center">
 
-# Hi, I'm Yaroslav!👋
+## Hi, I'm Yaroslav!👋
 
 **Data Engineer · Analytics Engineer · Backend Developer**
 
 *Pipelines, Lakehouses, and Intelligent Systems*
 
-[
-[
-[
-[
-
 </div>
 
 ***
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 I build production-grade data infrastructure — Lakehouse architectures, ETL/ELT pipelines, and DWH systems. Beyond data, I develop backend microservices, set up observability stacks, and work with agentic AI systems.
 
@@ -26,9 +21,9 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 ***
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Data Engineering & Orchestration
+#### Data Engineering & Orchestration
 
 
 
@@ -37,14 +32,14 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 **Spark -  Kafka -  Airflow -  Dagster -  dbt Core**
 
-### Storage & Databases
+#### Storage & Databases
 
 
 
 
 **ClickHouse -  PostgreSQL -  S3 -  Lakehouse -  DWH**
 
-### Cloud & Backend
+#### Cloud & Backend
 
 
 
@@ -55,14 +50,14 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 **GCP -  Yandex Cloud -  Python -  FastAPI -  Flask -  Celery -  RabbitMQ**
 
-### Observability & BI
+#### Observability & BI
 
 
 
 
 **Grafana -  Loki -  Superset -  ELK**
 
-### AI & Agentic Systems
+#### AI & Agentic Systems
 
 
 
@@ -70,9 +65,9 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 ***
 
-## 🎡 Ecosystem
+### 🎡 Ecosystem
 
-### Containerization & CI/CD
+#### Containerization & CI/CD
 
 
 
@@ -81,7 +76,7 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 **Docker -  Kubernetes -  GitHub Actions -  GitLab CI/CD -  Travis CI**
 
-### Version Control & Project Management
+#### Version Control & Project Management
 
 
 
@@ -92,7 +87,7 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 ***
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   
@@ -102,7 +97,7 @@ I build production-grade data infrastructure — Lakehouse architectures, ETL/EL
 
 ***
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 I'm always open to discussing interesting challenges, **open-source collaboration**, or just chatting about stream processing and distributed systems.
 
